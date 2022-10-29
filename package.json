@@ -1,0 +1,16 @@
+{
+"name": "ufa789t",
+"theme": "ufa789t",
+"version": "1.10.5",
+"description": "ufa789t ทางเข้าเว็บไซต์คาสิโนเว็บตรง ไม่ผ่านเอเย่นต์ ให้เงินเครดิตฟรี",
+"keywords": [
+"ufa789t",
+"ufa789t เครดิตฟรี",
+"ufa789t ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/ufa789t",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
